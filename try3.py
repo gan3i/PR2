@@ -27,4 +27,4 @@ class Solution(object):
 s = Solution()
 print(s.maxProfit([2,1,2,0,1]))
 
-        
+    
